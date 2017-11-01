@@ -17,9 +17,9 @@
 4）配置Skill Information
 ![Alt text](/assets/zh-cn/guidelines/echo/config_skill_information.png)
 a. Skill type:  Skill的类型，选择 “Custom Interaction Model”
-b. Language: Skill的语言，默认选择English(U.S.)
-c. Name:  Skill的名称, 定为 “Smart Light”
-d. Invocation Name: Alexa的唤醒词，唤醒词有一定的限制规则，建议由容易发音识别的单词组成，提高唤醒准确度，详细说明可以参考[唤醒词命名规则](https://developer.amazon.com/docs/custom-skills/choose-the-invocation-name-for-a-custom-skill.html#invocation-name-requirements)。这里定为 “smart light”
-<br/>**点击保存**，保存后点击Nexe，进入Interaction Model
+<br/>b. Language: Skill的语言，默认选择English(U.S.)
+<br/>c. Name:  Skill的名称, 定为 “Smart Light”
+<br/>d. Invocation Name: Alexa的唤醒词，唤醒词有一定的限制规则，建议由容易发音识别的单词组成，提高唤醒准确度，详细说明可以参考[唤醒词命名规则](https://developer.amazon.com/docs/custom-skills/choose-the-invocation-name-for-a-custom-skill.html#invocation-name-requirements)。这里定为 “smart light”
+<br/><br/>**点击保存**，保存后点击Nexe，进入Interaction Model
 ![Alt text](/assets/zh-cn/guidelines/echo/save_skill_information.png)
 5）配置Interaction Model
