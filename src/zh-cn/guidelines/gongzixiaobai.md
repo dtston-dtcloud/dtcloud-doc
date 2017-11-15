@@ -1,4 +1,4 @@
-# 公子小白，智能机器人接入流程
+# 公子小白接入流程
 ![Alt text](/assets/zh-cn/guidelines/gongzixiaobai/1-20171115214800.png)
 <br/>![Alt text](/assets/zh-cn/guidelines/gongzixiaobai/2-20171115214948.png)
 <br/>![Alt text](/assets/zh-cn/guidelines/gongzixiaobai/3-20171115215029.png)
