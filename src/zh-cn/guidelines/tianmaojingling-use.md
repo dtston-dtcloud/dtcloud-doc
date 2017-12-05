@@ -33,13 +33,13 @@
 点击智能设备平台详情的“绑定账号”，进入登录界面，输入账号密码
 ![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/setzhanghao.png)
 登录成功，即可发现设备
-![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/faxiandevice.png)
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/faxiandevice.jpg)
 ## 3. 语音控制设备
 ### 3.1 设置设备位置和别名
 点击设备，进入设备位置界面，分别设置设备的位置和别名
-![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/weizhi.png)
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/weizhi.jpg)
 设备别名
-![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/biemeng.png)
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/biemeng.jpg)
 ### 3.2 打开、关闭设备
 打开设备的语句结构：打开 + 设备位置 + 设备名字/别名 （或者打开 + 设备名字/别名）
 <br/>关闭设备的语句结构：关闭 + 设备位置 + 设备名字/别名 （或者打开 + 设备名字/别名）
