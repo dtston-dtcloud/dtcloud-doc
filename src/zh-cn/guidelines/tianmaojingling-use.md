@@ -24,9 +24,9 @@ APP注册页，输入手机号码进行注册<br/><br/>
 ## 2. 设备和天猫精灵绑定
 ### 2.1 开启深智云技能
 打开天猫精灵APP，在“我的”页面点击“智能家居”<br/><br/>
-![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/tianmaoapp.png)
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/tianmaoapp.jpg)
 <br/><br/>点击页面的添加智能设备，或者右上角的添加图标<br/><br/>
-![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/tianmao_adddevice.png)
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/tianmao_adddevice.jpg)
 <br/><br/>找到深智云并点击，进入智能设备平台详情<br/><br/>
 ![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/zhanghao.png)
 ### 2.2 绑定账号
