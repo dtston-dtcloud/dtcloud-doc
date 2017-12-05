@@ -4,8 +4,8 @@
 ![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/erweima.png)
 <br/>首先扫描以上二维码下载安装 深智云APP;
 ### 1.2 注册/登录个人账户
-<br/>APP注册页，输入手机号码进行注册
-<br/>![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/zhuce.png)
+APP注册页，输入手机号码进行注册<br/><br/>
+![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/zhuce.png)
 <br/>注册成功后，在登录界面输入账号和密码进行登录
 <br/>![Alt text](/assets/zh-cn/guidelines/tianmaojingling/use/denglu.png)
 ### 1.3 添加设备
